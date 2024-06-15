@@ -20,10 +20,12 @@
   color:var(--vp-c-text-2);
   transition:color .5s
 }
+
 .VPSocialLink[data-v-16cf740a]:hover {
-  color:var(--vp-c-text-1);
+  color:red;
   transition:color .25s
 }
+
 .VPSocialLink[data-v-16cf740a]>svg {
   width:20px;
   height:20px;
